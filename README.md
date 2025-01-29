@@ -1,7 +1,7 @@
 # NUAA_software_reliability
 南京航空航天大学南航软件可靠性分析课程设计 
 
-JM模型 GO模型 BP神经网络 GM(1,1)模型 FTA 基于Petri网实现某客机维修排故专家系
+JM模型 GO模型 BP神经网络 GM(1,1)模型 FTA 基于Petri网实现某客机维修排故专家系统
 
 
 点个⭐吧~
